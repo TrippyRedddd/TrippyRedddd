@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TrippyRedddd
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning nothing right now
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me the creat 
+- 👋 Hi, I’m Eterniti
+- 👀 I’m interested on codeing
+- 🌱 I’m currently learning codeing  right now
+- 💞️ I’m looking to collaborate ...
+- 📫 How to reach me 100056585@Apps.ogdensd.org
 
 <!---
 TrippyRedddd/TrippyRedddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
